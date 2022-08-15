@@ -1,0 +1,55 @@
+body {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: rgb(0, 255, 242);
+  color: rgb(116, 19, 19);
+  margin: 30px;
+  padding: 30px;
+}
+
+h2 {
+  font-family:Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+  color: #420690
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  border-collapse: collapse;
+}
+
+tr th {
+  border: 1px solid black;
+  color: #420690;
+  padding: 5px;
+  font-size: 20px;
+}
+
+tr td {
+  border: 1px solid blue;
+  color: rgb(156, 39, 39);
+  padding: 5px;
+  font-size: 17px;
+}
+
+
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: blue;
+}
+
+input {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Footer {
+  padding-top:15px;
+ }
+
